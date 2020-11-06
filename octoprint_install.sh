@@ -81,6 +81,7 @@ case $DISTRIBUTOR in
       python3-setuptools \
       python3-virtualenv \
       zlib1g-dev \
+      avahi-daemon \
       virtualenv
     ;;
 esac
